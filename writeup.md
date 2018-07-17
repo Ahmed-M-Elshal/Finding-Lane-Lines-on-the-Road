@@ -40,13 +40,13 @@ If you'd like to include images to show how the pipeline works, here is how to i
 ### Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when there are no lain lines or there color is changed.
+One potential shortcoming would be what would happen when there are no lane lines or there color is changed.
 
 Another shortcoming could be founed where there curves on the road.
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to detect any lain line one the road.
+A possible improvement would be to detect any lane line one the road.
 
 Another potential improvement could be to make Hough Transform detect the curves on the road.
